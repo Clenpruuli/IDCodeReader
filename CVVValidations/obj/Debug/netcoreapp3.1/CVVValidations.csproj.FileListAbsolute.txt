@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\bin\Debug\netcoreapp3.1\CVVValidations.exe
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\bin\Debug\netcoreapp3.1\CVVValidations.deps.json
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\bin\Debug\netcoreapp3.1\CVVValidations.runtimeconfig.json
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\bin\Debug\netcoreapp3.1\CVVValidations.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\bin\Debug\netcoreapp3.1\CVVValidations.dll
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\bin\Debug\netcoreapp3.1\CVVValidations.pdb
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\obj\Debug\netcoreapp3.1\CVVValidations.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\obj\Debug\netcoreapp3.1\CVVValidations.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\obj\Debug\netcoreapp3.1\CVVValidations.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\obj\Debug\netcoreapp3.1\CVVValidations.dll
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\obj\Debug\netcoreapp3.1\CVVValidations.pdb
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\obj\Debug\netcoreapp3.1\CVVValidations.genruntimeconfig.cache
+C:\Users\opilane\source\repos\IDCodeReader\CVVValidations\obj\Debug\netcoreapp3.1\CVVValidations.csprojAssemblyReference.cache

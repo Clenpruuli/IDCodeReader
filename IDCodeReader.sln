@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubString", "SubString\SubS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LOGITpe20", "LOGITpe20\LOGITpe20.csproj", "{2CC4E23B-C79F-4C22-B5FC-D960BFBBE524}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YearValidator", "YearValidator\YearValidator.csproj", "{6738FB3E-1308-4ACF-A584-B1AEE3FA324E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YearValidator", "YearValidator\YearValidator.csproj", "{6738FB3E-1308-4ACF-A584-B1AEE3FA324E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVVValidations", "CVVValidations\CVVValidations.csproj", "{BFEDD71B-4220-4390-B983-36261AD1B831}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6738FB3E-1308-4ACF-A584-B1AEE3FA324E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6738FB3E-1308-4ACF-A584-B1AEE3FA324E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6738FB3E-1308-4ACF-A584-B1AEE3FA324E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFEDD71B-4220-4390-B983-36261AD1B831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEDD71B-4220-4390-B983-36261AD1B831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEDD71B-4220-4390-B983-36261AD1B831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEDD71B-4220-4390-B983-36261AD1B831}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

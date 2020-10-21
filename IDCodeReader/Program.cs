@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 using System.Security.Cryptography.X509Certificates;
 
 namespace IDCodeReader
@@ -13,6 +14,7 @@ namespace IDCodeReader
             {
                 Console.WriteLine("Welcome!");
                 HelloUser(usersID);
+                GetAge(usersID);
 
             }else
             {
@@ -60,6 +62,39 @@ namespace IDCodeReader
                 Console.WriteLine("Hello,Madam!");
             }
         }
+        public static int GetYear(string IdCode)
+        {
+
+            string yearFromCode = IdCode.Substring(1, 2);
+            string year;
+            if (int.Parse(IdCode[0].ToString()) > 4)
+            {
+                year = "20" + yearFromCode;
+            }
+            else
+            {
+                year = "19" + yearFromCode;
+            }
+
+            Console.WriteLine($"You were born in {year}");
+            int yearParsed = Int32.Parse(year);
+
+            return yearParsed;
+
+        }
+
+        public static void GetAge(string idCode)
+        {
+         int yearofbirth = GetYear(idCode);
+
+         DateTime now = DateTime.Now;
+         int yearnow = Int32.Parse(now.Year.ToString());
+         int age = yearnow - yearofbirth;
+         Console.WriteLine($"You are {age} years old.");
+         
+        }
 
     }
+
+   
 }
